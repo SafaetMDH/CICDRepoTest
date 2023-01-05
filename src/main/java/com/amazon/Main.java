@@ -19,6 +19,7 @@ public class Main {
         System.out.printf("Amazon Page Title is " + pageTitle);
 
         //Adding this line to test git
+        //Testing new branch strategy
 
         driver.quit();
 
