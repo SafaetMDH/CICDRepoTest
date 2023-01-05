@@ -17,7 +17,8 @@ public class Main {
         String pageTitle = driver.getTitle();
 
         System.out.printf("Amazon Page Title is " + pageTitle);
-        System.out.printf("Amazon Page Title is " + pageTitle);
+
+        //Adding this line to test git
 
         driver.quit();
 
